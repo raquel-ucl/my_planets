@@ -7,4 +7,3 @@ Saturn
 Uranus
 Neptune
 Pluto
-Deimos
