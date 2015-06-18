@@ -1,10 +1,11 @@
-PLANETS:
-=======
-Mercury
+*** PLANETS & Dwarf planets ***
+=======================
+Mercury - this one is really small
 Venus
 Earth - This is where I live.
 Mars - Everything red here.
 Jupiter
 Saturn
+Pluto - this is a dwarf planet (even smaller)
 Uranus
 Neptune
