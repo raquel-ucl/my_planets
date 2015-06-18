@@ -6,4 +6,4 @@ Jupiter
 Saturn
 Uranus
 Neptune
-#TODO Add more planets
+Pluto
